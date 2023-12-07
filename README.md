@@ -5,7 +5,7 @@
 <img src='#' alt="Project Image" />
 
 <h2>Live Project</h2>
-<a href="https://yelpcamp-lilac.vercel.app/">Click Here</a>
+<a href="https://e-commerce-8c35e45.payloadcms.app/home">Click Here</a>
 
 <h2>Features:</h2> 
 <ul> 
