@@ -2,7 +2,7 @@
 
 <p>Welcome to the E-Commerce App – a feature-rich web application built with React, Next.js, TypeScript, Payload, and Stripe. This application is designed to provide a seamless and secure online shopping experience, combining the power of modern frontend frameworks with efficient e-commerce functionalities.</p> 
 
-<img src='#' alt="Project Image" />
+<img src='https://github.com/lucas1337dev/e-commerce/blob/main/public/e-commerce-8c35e45.payloadcms.app_home.png' alt="Project Image" />
 
 <h2>Live Project</h2>
 <a href="https://e-commerce-8c35e45.payloadcms.app/home">Click Here</a>
